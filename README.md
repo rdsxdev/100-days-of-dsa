@@ -3,9 +3,9 @@
 >Straight up doing leetcode for the next 100 days.
  In JAVA language. 
 
->The problems are solved in this format
+### The problems are solved in this format
 
-## problem x [NAME]
+##### problem x [NAME]
 ./
 1. What is the brute force?
 > 
